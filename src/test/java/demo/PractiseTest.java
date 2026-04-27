@@ -7,5 +7,6 @@ public class PractiseTest {
 	@Test(groups = "smoke")
 	public void appleTest() {
 		System.out.println("Apple Smart Watch");
+		System.out.println("Poll SCM changes");
 	}
 }
